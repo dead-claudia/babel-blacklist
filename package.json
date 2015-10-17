@@ -1,0 +1,14 @@
+{
+  "name": "babel-blacklist",
+  "main": "babel-blacklist.js",
+  "version": "1.0.0",
+  "description": "Generate a native blacklist for Babel based on Node/io.js version",
+  "author": "Isiah Meadows",
+  "license": "ISC",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "devDependencies": {
+    "eslint": "^1.7.1"
+  }
+}
